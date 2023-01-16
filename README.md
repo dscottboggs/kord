@@ -44,6 +44,12 @@ Cargo:
 $ cargo install kord
 ```
 
+Kord requires nightly rust, so if you use rustup with stable as default, run this instead:
+
+```bash
+$ rustup run cargo install kord
+```
+
 ### Help Docs
 
 ```bash
